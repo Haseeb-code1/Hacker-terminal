@@ -48,4 +48,5 @@ Special thanks to the open-source community for their contributions and inspirat
 📬 Contact
 For questions, feedback, or collaboration inquiries, please reach out to M.hasseb at . Let's connect and innovate together
 linkedin: www.linkedin.com/in/haseeb-tariq-7b802824a
+vercel:https://hacker-terminal-eta.vercel.app/
 vercel: https://hacker-terminal-mzqq3o717-haseeb-code1s-projects.vercel.app/
